@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412826217907",
+    "firebase_url": "https://eventdatabasedemorao9620.firebaseio.com",
+    "project_id": "eventdatabasedemorao9620",
+    "storage_bucket": "eventdatabasedemorao9620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412826217907:android:f9b0d755a48086037fefc6",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412826217907-j7a5d36f5bjpfqui96v07vcjv7jl5mar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJnXmW6u8Pq9DJogy4yX9c9p1EeJGo6Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412826217907-j7a5d36f5bjpfqui96v07vcjv7jl5mar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
